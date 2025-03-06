@@ -44,4 +44,4 @@ I am continuously working to enhance and expand its capabilities, aiming to deli
 * **Registration:** Enables new users to create an account.
 
 # **License**
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/EnzoVenturelliPina/idk?tab=License-1-ov-file) file for details
