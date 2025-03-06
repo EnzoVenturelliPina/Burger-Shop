@@ -20,9 +20,9 @@ npm install -g @angular/cli
 ```
 Clone the Repository
 ```
-git clone https://github.com/EnzoVenturelliPina/burguer-shop.git
+git clone https://github.com/EnzoVenturelliPina/Burguer-Shop.git
 
-cd burguerShop
+cd BurguerShop
 ```
 Install Dependencies
 ```
