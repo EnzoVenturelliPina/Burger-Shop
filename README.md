@@ -1,7 +1,7 @@
 # **About this Project**
 
 This system, built with Angular for the front-end and Spring Boot for the back-end, provides a seamless and efficient solution for managing a burger shop, 
-from user authentication to dynamic menus, shopping carts, and a rewarding loyalty system. (coupons).
+from user authentication to dynamic menus, shopping carts, and a rewarding loyalty system (coupons).
 
 **PS:** This project is part of my personal portfolio, and I would greatly appreciate any constructive feedback you may have. 
 Whether it's regarding the code structure, programming logic, best practices, or any other aspect that could help me grow as a developer. 
